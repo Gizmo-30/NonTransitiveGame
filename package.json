@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "crypto": "^1.0.1",
+    "odd-or-even-number": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "random-ext": "^2.8.0",
+    "readline-sync": "^1.4.10",
+    "secure-random": "^1.1.2"
+  }
+}
